@@ -1,1 +1,1 @@
-"#Galang Mulqia Hakiki - 21041031" 
+# Galang Mulqia Hakiki - 21041031
